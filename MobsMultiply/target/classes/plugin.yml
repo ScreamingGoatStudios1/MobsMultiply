@@ -1,0 +1,7 @@
+name: MobsMultiply
+version: 1.0
+main: com.jake.mobsmultiply.MobsMultiply
+api-version: 1.16
+authors: [ thatispog ]
+commands:
+  mobsmultiply:
